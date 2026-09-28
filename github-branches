@@ -1,0 +1,6 @@
+$ git branch -a -vv
+* main                  14b3ae1 Fixed typo in README.md
+  bug-fix-typo          14b3ae1 Fixed typo in README.md
+  remotes/origin/HEAD   -> origin/main
+  remotes/origin/main   b1fb1e8 [ahead 1] Create close_pr.yml
+  remotes/origin/branch bfb06c3 fixed typo
